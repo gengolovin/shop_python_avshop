@@ -1,0 +1,12 @@
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sw*
+
+# The file containing environment variables 
+.env
+
+Pipfile
+Pipfile.lock
+
+
